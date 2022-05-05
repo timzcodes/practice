@@ -1,5 +1,3 @@
-lsdasdasdsadas
+# This program prints Hello, world!
 
-wq
-
-
+print('Hello, world!')
