@@ -2,4 +2,8 @@
 
 print('Hello, world!')
 
+
 # hello...
+
+print('hi')
+
